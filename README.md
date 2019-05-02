@@ -11,7 +11,6 @@ The first moments it was kind of an abstract thing, this framework. but as time 
 i started realizing how powerful a framework kan be, if used correctly.
 I am, however, not convinced using only a framework is a good way to build a website.
 CSS and Bootstrap should go hand in hand.
-<<<<<<< HEAD
 =======
 
 
